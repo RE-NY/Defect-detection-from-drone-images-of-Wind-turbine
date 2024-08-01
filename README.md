@@ -1,6 +1,6 @@
 # Defect-detection-from-drone-images-of-Wind-turbine
 
-![alt text](https://github.com/RE-NY/Defect-detection-from-drone-images-of-Wind-turbine/blob/main/nordtank_turbine.jpeg "NordTank Turbine")
+<img src="https://github.com/RE-NY/Defect-detection-from-drone-images-of-Wind-turbine/blob/main/nordtank_turbine.jpeg" alt="NordTank Wind Turbine" width="700" height="500">
 
 Used Convolutional Neural Networks for defect detection from images of Wind turbine in Denmark(dataset obtained from DTU datasets) from 2017 and 2018.
 
